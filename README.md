@@ -1,6 +1,17 @@
 # web_scraping
 Challenge 11
 
+# Files
+- Code files could be found in SurfUP folder
+  - for Part 1 - part_1_mars_news.ipynb
+  - for Part 2 - part_2_mars_weather.ipynb
+
+- In the output folder you could find:
+  - From Part 1
+    - mars_news.json
+  - From Part 2
+    - mars_df.csv
+
 # Background
 
 You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
