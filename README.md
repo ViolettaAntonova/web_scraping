@@ -2,7 +2,7 @@
 Challenge 11
 
 # Files
-- Code files could be found in SurfUP folder
+- Code files:
   - for Part 1 - part_1_mars_news.ipynb
   - for Part 2 - part_2_mars_weather.ipynb
 
