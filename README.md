@@ -3,7 +3,7 @@ Challenge 11
 
 # Files
 - Code files:
-  - for Part 1 - part_1_mars_news.ipynb
+  - for Part 1 - part_1_mars_news.ipynb [a relative link](part_1_mars_news.ipynb)
   - for Part 2 - part_2_mars_weather.ipynb
 
 - In the output folder you could find:
