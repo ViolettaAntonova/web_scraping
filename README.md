@@ -3,14 +3,14 @@ Challenge 11
 
 # Files
 - Code files:
-  - for Part 1 - part_1_mars_news.ipynb [a relative link](part_1_mars_news.ipynb)
-  - for Part 2 - part_2_mars_weather.ipynb
+  - for Part 1 - [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
+  - for Part 2 - [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
 
 - In the output folder you could find:
   - From Part 1
-    - mars_news.json
+    - [mars_news.json](output/mars_news.json)
   - From Part 2
-    - mars_df.csv
+    - [mars_df.csv](output/mars_df.csv)
 
 # Background
 
